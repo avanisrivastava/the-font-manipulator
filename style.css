@@ -1,0 +1,32 @@
+.heading{
+    font-size: 20px;
+    width:100%;
+    margin:0px;
+    box-shadow: 7px 7px 7px rgb(245, 80, 195);
+}
+
+.note{
+    color: rgb(11, 35, 105);
+    font-size: 15;
+
+}
+
+canvas{
+    border: 5px solid rgb(133, 255, 255);
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px rgb(79, 30, 192);
+}
+
+.footer{
+    bottom:0;
+    position:fixed;
+    width:100%;
+    text-align: center;
+    background-color: rgba(255, 0, 179, 0.979);
+    color:rgb(11, 53, 87)
+}
+
+body{
+    background-color: rgb(172, 83, 255);
+    
+}
